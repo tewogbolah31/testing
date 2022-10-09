@@ -40,7 +40,7 @@ let ourDog = {
 //     today :{ min : 72, max: 83},
 //     tomorrow: {min : 73.3, max : 84.5}
 // }
-
+//my money 
 // function getMaxOfTmrw(forecast) {
 //     let {tomorrow : {max : tomorowmax}, today : {min : todayMin}} = forecast;
 //     return [tomorowmax, todayMin];
