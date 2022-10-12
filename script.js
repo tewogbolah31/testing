@@ -36,15 +36,15 @@ let ourDog = {
 
 // console.log(babe);
 
-// let localForcast = {
-//     today :{ min : 72, max: 83},
-//     tomorrow: {min : 73.3, max : 84.5}
-// }
-//my money 
-// function getMaxOfTmrw(forecast) {
-//     let {tomorrow : {max : tomorowmax}, today : {min : todayMin}} = forecast;
-//     return [tomorowmax, todayMin];
-// }
+let localForcast = {
+    today :{ min : 72, max: 83},
+    tomorrow: {min : 73.3, max : 84.5}
+}
 
-// let [max, min] = getMaxOfTmrw(localForcast);
-// console.log(min);
+function getMaxOfTmrw(forecast) {
+    let {tomorrow : {max : tomorowmax}, today : {min : todayMin}} = forecast;
+    return [tomorowmax, todayMin];
+}
+
+let [max, min] = getMaxOfTmrw(localForcast);
+console.log(min);
