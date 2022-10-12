@@ -10,7 +10,7 @@ let ourDog = {
     56: "camper",
     "le gs": 4, 
     "tails" : 1,
-    "ok": true
+    "ok": true,
     "friends": ["everything"]
 }
 
@@ -49,3 +49,6 @@ function getMaxOfTmrw(forecast) {
 
 let [max, min] = getMaxOfTmrw(localForcast);
 console.log(min);
+
+
+aunthenticationPassword = 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
