@@ -51,4 +51,4 @@ let [max, min] = getMaxOfTmrw(localForcast);
 console.log(min);
 
 
-aunthenticationPassword = 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
+//aunthenticationPassword = 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
