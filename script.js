@@ -10,6 +10,7 @@ let ourDog = {
     56: "camper",
     "le gs": 4, 
     "tails" : 1,
+    "ok": true
     "friends": ["everything"]
 }
 
