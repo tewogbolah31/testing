@@ -48,7 +48,11 @@ function getMaxOfTmrw(forecast) {
 }
 
 let [max, min] = getMaxOfTmrw(localForcast);
+
+//i add it myself   
+
+
 console.log(min);
+ 
 
-
-//aunthenticationPassword = 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
+//aunthenticationPassword = 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z
